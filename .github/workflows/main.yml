@@ -1,4 +1,4 @@
-ame: Build SlimeVac
+name: Build SlimeVac
 
 on:
   workflow_dispatch:
